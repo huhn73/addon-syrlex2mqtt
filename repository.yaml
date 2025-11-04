@@ -1,3 +1,3 @@
-name: addon-syrlex2mqtt repository
-url: https://github.com/Richard-Schaller/addon-syrlex2mqtt
-maintainer: Richard Schaller <richard.schaller@gmx.de>
+name: addon-syrlex2mqtt repository (fork of Richard Schallers original Version)
+url: https://github.com/huhn73/addon-syrlex2mqtt
+maintainer: Björn Schubert <huhn73@googlemail.com>
